@@ -39,7 +39,7 @@
 
 ​
 
-## 示例
+# 示例
 
 ![](https://github.com/sylnsfar/qrcode/blob/master/example/qrs0.jpg)
 
@@ -82,7 +82,7 @@ myqr 	Words
 		[-p picture_file]
 		[-c]
 		[-con contrast]
-		[-bri brightness]
+		[-bri brightness] 
 ```
 
 - [普通二维码](#普通二维码) 介绍了 `Words`, `-v`, `-l`, `-n`, `-d` 
